@@ -1,0 +1,47 @@
+{
+    "menu":[
+        {
+            "id":1,
+            "name":"Scrambled Eggs with ham",
+            "price":"9.00"
+        },
+        {
+            "id":2,
+            "name":"Scrambled Eggs with ham",
+            "price":"1.00"
+        },
+        {
+            "id":3,
+            "name":"Scrambled Eggs in Puff Pastry",
+            "price":"2.00"
+        },
+        {
+            "id":4,
+            "name":"Scrambled Eggs in Puff Pastry",
+            "price":"3.00"
+        },
+        {
+            "id":5,
+            "name":"Eggs Benedict",
+            "price":"8.00"
+        },
+        {
+            "id":6,
+            "name":"Eggs Benedict",
+            "price":"2.00"
+        },
+        {
+            "id":7,
+            "name":"Soft-Boiled Organic Egg",
+            "price":"5.00"
+        },
+        {
+            "id":8,
+            "name":"Soft-Boiled Organic Egg",
+            "price":"7.00"
+        }
+    ],
+    "favorite":[],
+    "form":[],
+    "basket":[]
+}

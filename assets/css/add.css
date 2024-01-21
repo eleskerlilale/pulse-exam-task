@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+#main {
+  padding: 50px 0;
+}
+#main .main {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 50px;
+  box-shadow: 0 0 15px 1px gray;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+#main .main .image {
+  width: 150px;
+  height: 150px;
+  border: 1px solid gray;
+}
+#main .main .image img {
+  width: 100%;
+  height: 100%;
+}
+#main .main input {
+  padding: 8px;
+}
+#main .main .button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+#main .main .button a, #main .main .button div {
+  width: 100px;
+  padding: 8px;
+  color: white;
+  text-align: center;
+  background-color: green;
+  text-decoration: none;
+  cursor: pointer;
+}/*# sourceMappingURL=add.css.map */
